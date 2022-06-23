@@ -1,0 +1,16 @@
+name: env
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - ipykernel
+  - scipy
+  - matplotlib
+  - seaborn
+  - requests
+  - cartopy
+  - future
+  - xlrd
+  - pip:
+      - pmagpy==4.2.104
+prefix: ./.env
