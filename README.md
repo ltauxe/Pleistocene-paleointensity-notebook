@@ -1,6 +1,6 @@
 # Pleistocene-paleointensity-notebook
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rminnett/Pleistocene-paleointensity-notebook/main?labpath=pleistocene_field_asymmetry.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ltauxe/Pleistocene-paleointensity-notebook/main?labpath=pleistocene_field_asymmetry.ipynb)
 
 Jupyter notebook for manuscript titled: "Paleointensity Estimates from the Pleistocene of Northern Israel: Implications for hemispheric asymmetry in the time-averaged field"
 Authors: Tauxe, L, Asefaw, H., Behar, N., Koppers, A.A.P., and Shaar, R.
